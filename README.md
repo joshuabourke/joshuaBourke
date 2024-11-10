@@ -9,12 +9,26 @@ I'm passionate about mobile development although I am still learning Kotlin 🤦
 - 🌱 I’m currently learning Kotlin + Jetpack compose, and always improving my Swift
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/josh-bourke)
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools 🛠️
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 ![Core Data](https://img.shields.io/badge/-Core%20Data-FFD700?style=flat-square)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuabourke&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuabourke&layout=compact&theme=radical)](https://github.com/joshuabourke/joshuabourke)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
+- [Twitter](https://twitter.com/your-twitter)
+- Email: [joshbourkeis@gmail.com]
+
 <!--
 **joshuabourke/joshuaBourke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
