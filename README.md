@@ -12,8 +12,10 @@ I'm passionate about mobile development although I am still learning Kotlin 🤦
 ## Technologies & Tools 🛠️
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0078D4?style=flat-square&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 ![Core Data](https://img.shields.io/badge/-Core%20Data-FFD700?style=flat-square)
+![CoreML](https://img.shields.io/badge/-CoreML-FF6D00?style=flat-square&logo=apple&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
