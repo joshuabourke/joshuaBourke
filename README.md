@@ -39,9 +39,9 @@ Swifty Wizards has been a little passion project of mine. Here I have been exper
 
 Changes to `@State`, `@Binding` or any SwiftUI publisher value for that matter would ironically also interfere with the games state. For example even updating a bool would reset the game causing the scene to be re-rendered.
 
-2. Learning SpriteKit and Collisions
+2. Learning SpriteKit
 
-Moving from SwiftUI to learn SpriteKit, I was excited at first. But then I learnt how to make a button and the excitement slowly dwindled. Hence why I have incorporated the help of SwiftUI to handle building games the UI.
+Moving from SwiftUI to learn SpriteKit, I was excited at first. But then I learnt how to make a button in SpriteKit and the excitement slowly dwindled. Hence why I have incorporated the help of SwiftUI to handle building the games UI.
 
 <div style="display: flex; justify-content: space-between; gap: 15px;">
 <img src="https://github.com/user-attachments/assets/e1f6dc2c-9ecb-4f4c-8416-558cc88368c5" width ="200"/>
