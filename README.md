@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a iOS Developer, Swift Enthusiast Extraordinaire. I love creating apps that solve problems and bring delightful user experiences.
+Welcome to my GitHub profile! My name is Josh, and I'm an mobile developer. I love creating apps that solve problems and bring delightful user experiences.
 
 ## About Me 🙋
 
@@ -41,7 +41,14 @@ Changes to `@State`, `@Binding` or any SwiftUI publisher value for that matter w
 
 2. Learning SpriteKit and Collisions
 
-Moving from SwiftUI to learn SpriteKit, I was excited at first. But then I learn how to make a button and the excitement slowly dwindled
+Moving from SwiftUI to learn SpriteKit, I was excited at first. But then I learnt how to make a button and the excitement slowly dwindled. Hence why I have incorporated the help of SwiftUI to handle building games the UI.
+
+<div style="display: flex; justify-content: space-between; gap: 15px;">
+<img src="https://github.com/user-attachments/assets/e1f6dc2c-9ecb-4f4c-8416-558cc88368c5" width ="200"/>
+<img src="https://github.com/user-attachments/assets/08bd2ee3-49da-4ec6-b0db-de478e189d62" width ="200"/>
+<img src="https://github.com/user-attachments/assets/d8d7d8d2-2baf-4f5b-807e-320f7a06af7b" width ="200"/>
+<img src="https://github.com/user-attachments/assets/875f506f-49ae-481e-b9d5-fe06b6299d78" width ="200"/>
+</div>
 
 ## Technologies & Tools 🛠️
 
@@ -68,6 +75,7 @@ Below is a list of technologies I have been working with.
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josh-bourke)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:joshbourkeis@gmail.com)
+
 
 <!--
 **joshuabourke/joshuaBourke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
