@@ -11,6 +11,9 @@ I'm passionate about mobile development although I am still learning Kotlin 🤦
 
 ## Technologies & Tools 🛠️
 
+
+Below is a list of technologies I have been working with. 
+
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0078D4?style=flat-square&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
