@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a iOS Developer, Swift Enthusiast Extraordinai
 I'm passionate about mobile development although I am still learning Kotlin 🤦.  I also take an interest into machine learning. I have over 3 years experience working with Swift, and I have successfully launch Nutrify: Whole Food Tracker onto the App Store.
 
 - 🌱 I’m currently learning Kotlin + Jetpack compose, and always improving my Swift
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/josh-bourke)
 
 ## Technologies & Tools 🛠️
 
@@ -33,9 +32,8 @@ Below is a list of technologies I have been working with.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
-- [Twitter](https://twitter.com/your-twitter)
-- Email: [joshbourkeis@gmail.com]
+- [LinkedIn](www.linkedin.com/in/josh-bourke) 
+- [Email](mailto:joshbourkeis@gmail.com)
 
 <!--
 **joshuabourke/joshuaBourke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
